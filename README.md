@@ -2,9 +2,10 @@
 
 A simple desktop GUI for resizing JPEG images to web and Instagram sizes, built with Python and Tkinter.
 
-![UI colour scheme: 18% grey, neutral for colour-accurate work]
+![alt text](image.png)
 
 ---
+
 
 ## Features
 
